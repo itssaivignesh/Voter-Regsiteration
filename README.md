@@ -1,1 +1,1 @@
-# Voter-Regsiteration App by Sai Vingesh S
+# Voter-Regsiteration App by Sai Vignesh S
